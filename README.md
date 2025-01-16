@@ -1,3 +1,4 @@
 # add-people
 add people
-tpye here
+type here
+This is Ethan's edit 
